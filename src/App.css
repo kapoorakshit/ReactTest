@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.ms-Nav {
+ background-color: white;
+}
+
+.ms-Grid-col {
+  width: 300px;
+ padding-left: 0;
+ margin-left: 0;
+}

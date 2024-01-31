@@ -1,0 +1,69 @@
+.dialog {
+    background-color: white;
+
+}
+.login-container{
+    color: gold;
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 10%;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: green;
+    border-radius: 15px ;
+    height: 800px;
+
+}
+.options {
+    color: white;
+}
+.login-container .title {
+    margin-bottom: 30px;
+
+
+}
+.login-container .Description {
+    margin-bottom: 20px;
+    
+
+}
+.login-container .price {
+    margin-bottom: 20px;
+    
+
+}
+.login-container .discountPercentage {
+    margin-bottom: 20px;
+    
+
+}
+.login-container .rating {
+    margin-bottom: 20px;
+    
+
+}
+.login-container .stock {
+    margin-bottom: 20px;
+    
+
+}
+.login-container .brand {
+    margin-bottom: 100px;
+    
+
+}
+.login-container .category {
+    margin-bottom: 20px;
+    
+
+}
+.mybutton {
+    background-color: rgb(0, 167, 223);
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:10px; 
+    min-width: 90px;
+}
